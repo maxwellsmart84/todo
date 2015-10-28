@@ -1,0 +1,38 @@
+
+.container{
+  width:100%;
+  background-color: black;
+  h1 {
+    text-align: center;
+    font-size: 3em;
+    color:white;
+  }
+  /* GOT THIS STYLE OFF OF http://callmenick.com/post/various-css-input-text-styles */
+  input {
+    margin-left:33%;
+    position:relative;
+    padding: 10px;
+    border: solid 5px #c9c9c9;
+    box-shadow: inset 0 0 0 1px #707070;
+    transition: box-shadow 0.3s, border 0.3s;
+    width:400px;
+  }
+}
+
+.toDoPlacer {
+width:100%;
+background-color: red;
+
+}
+
+li {
+  list-style: none;
+}
+
+.newToDo {
+
+}
+
+.hidden-section {
+  display:none;
+}
